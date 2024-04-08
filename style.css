@@ -11,9 +11,10 @@ table{
 table { border-collapse:collapse }
 table thead tr th{
  border: 1px solid black;
- padding: 10px;
+ padding: 15px;
  color: rgb(75, 0, 0);
  background-color: rgb(0, 143, 161);
+font-size: 2em;
 
 
 }
@@ -37,4 +38,49 @@ td[title]:hover:after {
  }
  .Ikt{
     background-color: burlywood;
+ }
+ .Komplex{
+    background-color: rgb(146, 141, 135);
+ }
+ .Testnevelés{
+  background-color: rgb(238, 196, 91);
+ }
+ .Magyar{
+  background-color: rgb(236, 231, 161);
+ }
+ .Angol{
+  background-color: rgb(3, 222, 238);
+ }
+ .Matek{
+  background-color: rgb(121, 107, 107);
+ }
+ .Infos{
+  background-color: rgb(255, 61, 61);
+ }
+ .Történelem{
+  background-color: rgb(126, 113, 0);
+ }
+ .Digk{
+  background-color: salmon;
+
+ }
+ .Salamon{
+  background-color: rgb(78, 177, 121);
+ }
+ .Fidesz{
+  background-color: orange;
+  
+ }
+ .DÓGOZZÁ{
+  background-color: rgb(170, 169, 167);
+
+ }
+ .Infob{
+  background-color: #DC143C;
+ }
+ .Osztályfőnöki{
+  background-color: #FFFFE0;
+ }
+ .s{
+  background-color: ##F5F5F5;
  }
