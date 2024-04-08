@@ -5,8 +5,10 @@ table{
     font-size: 2em;
     text-align: center;
     box-shadow: rgba(0, 0, 0, 0.24) 20px 30px 12px;
-
+   
+    
 }
+table { border-collapse:collapse }
 table thead tr th{
  border: 1px solid black;
  padding: 10px;
@@ -22,9 +24,12 @@ table tbody tr td{
 }
 td[title]:hover:after {
     content: attr(title);
-    font-size: 24px;
+    font-size: 21px;
     color: white;
     background-color: blue;
     padding: 5px;
     border-radius: 5px;
+    text-align: center;
+    display: block;
  }
+ 
